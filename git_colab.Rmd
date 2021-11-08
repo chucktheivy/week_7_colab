@@ -11,11 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Howdy neighbor! Ye-Haw 
 
-Wass crackalackin' home skillet biscut
+Wass crackalackin' home skillet biscuit
 
 I made this 4 u
 ```{r Chuck's Chunk}
-
+#hold me close now tidyverse dancer
+111 * 6
 ```
 
 This one is para mi
