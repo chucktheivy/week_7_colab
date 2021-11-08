@@ -10,3 +10,16 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Howdy neighbor! Ye-Haw 
+
+Wass crackalackin' home skillet biscut
+
+I made this 4 u
+```{r Chuck's Chunk}
+
+```
+
+This one is para mi
+```{r Rao's Room}
+
+```
+
