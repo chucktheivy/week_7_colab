@@ -17,6 +17,24 @@ I made this 4 u
 ```{r Chuck's Chunk}
 #hold me close now tidyverse dancer
 111 * 6
+
+#This Is Just To Say
+#William Carlos Williams - 1883-1963
+
+#I have eaten
+#the plums
+#that were in
+#the icebox
+
+#and which
+#you were probably
+#saving
+#for breakfast
+
+#Forgive me
+#they were delicious
+#so sweet
+#and so cold
 ```
 
 This one is para mi
